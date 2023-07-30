@@ -7,5 +7,8 @@ const conexao = mysql.createConnection({
     password: 'root',
     database: 'bdcopa'
 })
+// fazendo a conexão. 
+
+conexao.connect();
 
 export default conexao
