@@ -58,4 +58,3 @@ export default app;
 
 
 
-// o pequeno roubo do grande nunu
