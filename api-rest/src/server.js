@@ -1,6 +1,6 @@
 // importando app.
-import app from './src/app.js';
-const PORT = 3000; // criando porta 
+import app from './app.js'
+const PORT = process.env.PORT || 3000; // criando porta 
 
 
 
